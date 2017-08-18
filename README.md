@@ -83,7 +83,7 @@
 ## Contribute
 Source Code: [http://devsdb.visualstudio.com/_git/SDB-IOEE_StreamProcessingPoC](http://devsdb.visualstudio.com/_git/SDB-IOEE_StreamProcessingPoC)
 ## Author
-Naweli Bharati 
+Naweli Bharati: naweli.bharti@gmail.com
 
 
 
