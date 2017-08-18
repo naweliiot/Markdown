@@ -83,7 +83,16 @@
 ## Contribute
 Source Code: [http://devsdb.visualstudio.com/_git/SDB-IOEE_StreamProcessingPoC](http://devsdb.visualstudio.com/_git/SDB-IOEE_StreamProcessingPoC)
 ## Author
-Naweli Bharati: naweli.bharti@gmail.com
+Naweli Bharati: naweli.bharati@schindler.com
+###### Things to be remembered
+**Stringify the schema:**
+
+
+1. validate your json https://jsonlint.com/
+2. One line json : http://rantz.net/tools/stringify/index.php
+3. http://tools.knowledgewalls.com/jsontostring
+
+
 
 
 
