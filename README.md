@@ -57,7 +57,7 @@
 	
 ## Miscellaneous 
    
-############### To test the Broker ####################
+###### To test the Broker
 1. Create topic 
    sudo docker run --rm confluentinc/cp-kafka:3.1.1 kafka-topics --create --topic foo --partitions 1 --replication-factor 1 --if-not-exists --zookeeper 10.0.1.7:2181
 2. Docker  Producer Image  
